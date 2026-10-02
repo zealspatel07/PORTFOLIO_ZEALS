@@ -119,7 +119,7 @@ const Education = () => {
                   🇮🇳 Hindi
                 </span>
                 <span className="px-3.5 py-1.5 text-xs font-bold rounded-full bg-purple-500/10 border border-purple-500/30 text-purple-300">
-                  🟠 Marathi
+                  🟠 Gujarati 
                 </span>
               </div>
             </div>
