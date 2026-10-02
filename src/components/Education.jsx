@@ -10,20 +10,7 @@ const Education = () => {
       date: 'August 2025 – July 2026',
       desc: 'Worked on software development and industrial reporting solutions, including React interfaces, .NET and SQL Server integrations, dashboards, database-driven workflows, and query/rendering optimization that achieved approximately 35% faster processing.'
     },
-    {
-      id: 'exp-2',
-      title: 'MIS Executive',
-      company: 'Spark Inframark Pvt. Ltd.',
-      date: 'August 2026 – September 2026',
-      desc: 'Managed business data, MIS reports, operational reporting, Excel-based analysis, data reconciliation, and structured reporting workflows.'
-    },
-    {
-      id: 'exp-3',
-      title: 'Student Counsellor Intern',
-      company: 'Kanan International',
-      date: 'May 2025 – August 2025',
-      desc: 'Supported student guidance, enquiry handling, follow-ups, and structured coordination workflows.'
-    },
+   
     {
       id: 'exp-4',
       title: 'Full Stack Intern',
